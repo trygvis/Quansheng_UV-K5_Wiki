@@ -34,6 +34,7 @@
 * [Telegram Channel - 🇫🇮 FI](https://t.me/UVK5_Suomi)
 * [Telegram Channel - 🇬🇧 EN](https://t.me/quansheng_uvk5_en)
 <br>
+
 * Facebook - [Quansheng Electronics Co., Ltd.](https://www.facebook.com/QuanshengRadios/)
   
 * Facebook - [Quansheng UV-K5 User's Group](https://www.facebook.com/groups/229333669483573/)
