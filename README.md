@@ -35,9 +35,13 @@
 * [Telegram Channel - 🇬🇧 EN](https://t.me/quansheng_uvk5_en)
 <br>
 * Facebook - [Quansheng Electronics Co., Ltd.](https://www.facebook.com/QuanshengRadios/)
+  
 * Facebook - [Quansheng UV-K5 User's Group](https://www.facebook.com/groups/229333669483573/)
+  
 * Facebook - [QuanSheng UV-K5 UV-K5(8) UV-K6 - Polska](https://www.facebook.com/groups/205485455659292/)
+  
 * Facebook - [Quansheng UV-K5 UK Users](https://www.facebook.com/groups/2291286734508728/)
+  
 * Facebook - [Quansheng UV-K5 Philippines User Group](https://www.facebook.com/groups/678587170703812/)<Br><Br>
 
 * Official UV-K5 support page:              [Chinese](http://qsfj.com/support/downloads/3002) | [English](http://en.qsfj.com/support/downloads/3002)
