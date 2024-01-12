@@ -16,22 +16,25 @@
 * [DualTachyon/UserPerson - Open reimplementation of the Quan Sheng UV K5 firmware v2.1.27](https://github.com/DualTachyon/uv-k5-firmware)
 * [SPM81 - Matoz, Firmwarevariants for K5, K5(8) K6, UV-5R Plus](https://github.com/spm81/Quansheng_UV-K5)
 * [Egzumer - Custom Firmware](https://github.com/egzumer/uv-k5-firmware-custom)
-
 * [OneOfEleven Firmware](https://github.com/OneOfEleven/uv-k5-firmware-custom)
 * [FW for Russian users](https://github.com/rebezhir/openquack)
-  <Br><Br>
-* [Telegram Channel - EN](https://t.me/quansheng_uvk5_en)
-* [Telegram Channel - RU](https://t.me/uv_k5)<br><br>
-  I would like to ask the two Spanish Telegram Channels to merge. <br>
-  It makes little sense to distribute a few OM to two "equal" channels. <br>
-  Just open a third channel and direct all users there ;-)<br>
-  Here is my offer until we find a solution together!<Br>
-* [Telegram Channel - ES *](https://t.me/QuanShengES)
-* [Telegram Channel - ES #](https://t.me/Quansenguvk5)<br><br>
-* [Telegram Channel - IT](https://t.me/+W31XPFpurWk0NzM0)
-* [Telegram Channel - PL](https://t.me/uvk5_pl)
-* [Telegram Channel - DE](https://t.me/quanshenguv5kde)
-* [Telegram Channel - UKR](https://t.me/radioamators/38782)<Br><Br>
+* [On-line firmware modder by @whosmatt](https://whosmatt.github.io/uvmod/)⭐
+* [dkxce - Quansheng-UV-K5](https://github.com/dkxce/Quansheng-UV-K5)
+
+* [Telegram Channel - EN DEV ](https://t.me/quansheng_uvk5_en_dev)
+* [Telegram Channel - 🇧🇬 BG](https://t.me/quansheng_uvk5_bg)
+* [Telegram Channel - 🇹🇷 TR](https://t.me/quansheng_uvk5_tr)
+* [Telegram Channel - 🇷🇺 RU](https://t.me/uv_k5)
+* [Telegram Channel - 🇪🇸 ES -> First one](https://t.me/Quansenguvk5) 
+* [Telegram Channel - 🇪🇸 ES -> Second channel](https://t.me/QuanShengES)
+* [Telegram Channel - 🇮🇹 IT](https://t.me/+W31XPFpurWk0NzM0)
+* [Telegram Channel - 🇵🇱 PL](https://t.me/uvk5_pl)
+* [Telegram Channel - 🇩🇪 DE](https://t.me/quanshenguv5kde)
+* [Telegram Channel - 🇺🇦 UA](https://t.me/radioamators/38782)
+* [Telegram Channel - 🇫🇮 FI](https://t.me/UVK5_Suomi)
+* [Telegram Channel - 🇬🇧 EN](https://t.me/quansheng_uvk5_en)
+<br><br>
+<Br><Br>
 * Facebook - [Quansheng Electronics Co., Ltd.](https://www.facebook.com/QuanshengRadios/)
 * Facebook - [Quansheng UV-K5 User's Group](https://www.facebook.com/groups/229333669483573/)
 * Facebook - [QuanSheng UV-K5 UV-K5(8) UV-K6 - Polska](https://www.facebook.com/groups/205485455659292/)
