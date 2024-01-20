@@ -21,7 +21,8 @@
 * [On-line firmware modder by @whosmatt](https://whosmatt.github.io/uvmod/)⭐
 * [dkxce - Quansheng-UV-K5](https://github.com/dkxce/Quansheng-UV-K5)
 * [Ivo Brugnera - I6IBE](http://www.radioamatoripeligni.it/i6ibe/uvk5/uvk5.htm)<br>
-
+* [QuanshengDock - NICSURE](https://github.com/nicsure/QuanshengDock)<br>
+ 
 * [Telegram Channel - EN DEV ](https://t.me/quansheng_uvk5_en_dev)
 * [Telegram Channel - 🇧🇬 BG](https://t.me/quansheng_uvk5_bg)
 * [Telegram Channel - 🇹🇷 TR](https://t.me/quansheng_uvk5_tr)
