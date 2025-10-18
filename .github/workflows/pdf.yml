@@ -1,5 +1,5 @@
 name: Generate PDF manuals
-on: push
+on: gollum
 jobs:
   pdf:
     runs-on: ubuntu-latest
